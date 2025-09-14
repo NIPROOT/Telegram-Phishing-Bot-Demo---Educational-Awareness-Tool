@@ -1,10 +1,10 @@
 # Telegram Phishing Bot Demo - Educational Awareness Tool
 
 ![Banner](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
-![bannner](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
+
 
 ## ⚠️ **Critical Legal and Ethical Disclaimer**
-
+![bannner](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
 **THIS REPOSITORY IS EXCLUSIVELY FOR EDUCATIONAL AND AWARENESS PURPOSES.**  
 This codebase is a meticulously crafted proof-of-concept demonstrating a Telegram phishing bot, designed to expose the mechanics of social engineering attacks targeting Telegram's massive user base. It is **strictly prohibited** from being used for any malicious activities, including but not limited to phishing, unauthorized account access, credential theft, fraud, scams, or any exploitation of user data for illegal purposes.
 
