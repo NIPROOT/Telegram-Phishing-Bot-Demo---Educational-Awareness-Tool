@@ -1,28 +1,5 @@
 {
     "users": [
-        {
-            "id": 8205164411,
-            "banned": false
-        },
-        {
-            "id": 6211132542,
-            "banned": false
-        },
-        {
-            "id": 7780147847,
-            "banned": false
-        },
-        {
-            "id": 8100475445,
-            "banned": false
-        },
-        {
-            "id": 8281190099,
-            "banned": false
-        },
-        {
-            "id": 7865401929,
-            "banned": false
-        }
     ]
+
 }
