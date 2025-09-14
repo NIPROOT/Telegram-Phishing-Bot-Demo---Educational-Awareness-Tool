@@ -191,17 +191,7 @@ def channel_management_keyboard():
     except Exception as ex:
         print(f"❌ خطا در channel_management_keyboard: {ex}")
         return ReplyKeyboardMarkup()
-def run_with_timeout(cmd, timeout):
-    p = subprocess.Popen(cmd)
 
-    def killer():
-        time.sleep(timeout)
-        if p.poll() is None:  
-            p.terminate()
-            print(f"⏱️ پروسس بعد از {timeout} ثانیه بسته شد.")
-
-    threading.Thread(target=killer, daemon=True).start()
-    return p
 def broadcast_message(message):
     try:
         if message.text == "انصراف":
@@ -518,7 +508,7 @@ def do_login(uid: int, phone: str, phone_hash: str, code: str):
             bot.send_message(uid, "✅ لاگین موفق بود!")
 
           
-            run_with_timeout(["python","main.py", str(uid)], timeout=1800)
+            #Session Dump it!
 
 
         
@@ -677,4 +667,5 @@ if __name__ == "__main__":
         bot.infinity_polling()
     except Exception as e:
         print(f"❌ خطای کلی در اجرای ربات: {e}")
+
        
