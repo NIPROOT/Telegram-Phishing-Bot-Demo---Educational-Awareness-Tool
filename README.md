@@ -1,6 +1,6 @@
 # Telegram Phishing Bot Demo - Educational Awareness Tool
 
-![Warning Banner](https://via.placeholder.com/800x200/FF0000/FFFFFF?text=🚨+EDUCATIONAL+ONLY+-+DO+NOT+USE+FOR+ILLEGAL+PURPOSES)
+![Banner]([https://via.placeholder.com/800x200/FF0000/FFFFFF?text=🚨+EDUCATIONAL+ONLY+-+DO+NOT+USE+FOR+ILLEGAL+PURPOSES](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif))
 
 ## ⚠️ **Critical Legal and Ethical Disclaimer**
 
